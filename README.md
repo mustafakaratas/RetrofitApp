@@ -1,2 +1,2 @@
-# YoutubePlaylist
-Retrofit kütüphanesi ile youtube'dan playlist ve playlist öğelerini çeken application.
+# Youtube Playlist with Retrofit
+Retrofit kütüphanesi ile Youtube'dan playlist ve playlist öğelerini çeken application.
